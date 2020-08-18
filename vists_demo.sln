@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "vists_demo", "vists_demo\vists_demo.dtproj", "{CA502E64-B322-4324-BB1D-4CFA30C3E6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA502E64-B322-4324-BB1D-4CFA30C3E6A5}.Development|Default.ActiveCfg = Development
+		{CA502E64-B322-4324-BB1D-4CFA30C3E6A5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749BBF24-CC9B-4CCF-A5D4-65932DF9D08B}
+	EndGlobalSection
+EndGlobal
